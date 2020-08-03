@@ -1,8 +1,5 @@
 # DSA-130720-PY-JS
-The Repositry will contain code(in py for python and in js for javascript),svg white board images and all the other content that we have discussed in the live session.
-
-### Method to use svg images:  
-#### Download the file and open in browser and use by zooming in and zooming out to see the whole board. Also use the scroll tabs along with it to traverse horizontally and vertically
+The Repositry will contain code and notes of white board images in pdf format and all the other content that we have discussed in the live session.
 
 
 ![DSA-130720-PY-JS](https://github.com/edyoda/DSA-130720-PY-JS/blob/master/DSA.png)
